@@ -1,0 +1,9 @@
+{
+    "prefix": "p!",     
+    "embedcolor": "GREEN", 
+    "dev": "756870895678521364",       
+    "token": "ODA3OTYzMDU2ODA1MTE4MDQy.YB_oOw.MOX-X3x5hBh_b9F0_gfRM_2DzmY", 
+    "database": "mongodb+srv://abhi:@abhi4321@pikachu.hekgt.mongodb.net/test",
+    "FACT_API": "",
+    "AME_API": "b57a7faa4f25afae741985c0c22fdf56e9de84d22252cf7bf6f0733d3e551d292432ebf84cf1cadc94513e9a7f20b1535ba846f44b430d8f4d5292849bb86a8e"     
+}
